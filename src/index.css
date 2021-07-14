@@ -16,4 +16,10 @@ label{
   display:block;
   line-height: 3em;
   color: darkorchid
+  
+}
+
+p
+{
+  text-align: justify;
 }
